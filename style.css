@@ -1,0 +1,129 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.first-class {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.first-class h1 {
+    font-size: 50px;
+    color: grey;
+}
+
+.first-class h2 {
+    font-size: 30px;
+    color: grey;
+}
+
+.first-class p {
+    color: grey;
+}
+
+.sty {
+    color: orange;
+}
+
+.child {
+    width: 40%;
+}
+
+.write {
+    margin-top: 16%;
+    margin-left: 6%;
+}
+
+.chobi {
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(DarkSalmon, Tomato);
+    padding: 15px 30px;
+    border-radius: 35px;
+}
+
+.bg {
+    background-image: url(img/1.png);
+    padding-top: 70px;
+}
+
+.s-child {
+    width: 33%;
+    margin-left: 15%;
+}
+
+.chobi-2 {
+    width: 20%;
+}
+
+.s-child img {
+    width: 100%;
+}
+
+.write-2 {
+    margin-top: 30px;
+}
+
+.recip {
+    text-align: center;
+    color: grey;
+}
+
+.rec-t {
+    width: 40%;
+    box-shadow: 10px 10px 30px Gainsboro;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.rec-t h2 {
+    color: black;
+}
+
+.rec-t p {
+    color: black;
+}
+
+.rec-t img {
+    width: 100%;
+}
+
+.fol {
+    display: flex;
+    width: 88%;
+    box-shadow: 10px 10px 30px Gainsboro;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.fol-2 {
+    width: 33.3333333333%;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    padding: 30px 0px;
+    text-align: center;
+}
+
+.ft {
+    padding-bottom: 50px;
+}
+
+footer h2 {
+    color: DimGray;
+}
+
+footer p {
+    color: Silver;
+}
